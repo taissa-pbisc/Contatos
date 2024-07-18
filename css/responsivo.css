@@ -1,0 +1,20 @@
+@media (max-width: 500px){
+    .cartao{
+        width: 75%;
+        height: 75%;
+        padding: 10px;
+    }
+
+    .nome{
+        font-size: 20px;
+    }
+
+    .local{
+        font-size: 16px
+    }
+
+    .profissao{
+        font-size: 13px;
+        width: 300px;
+    }
+}
